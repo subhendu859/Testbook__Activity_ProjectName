@@ -1,0 +1,105 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+   
+    background-image:url(https://images.news18.com/ibnlive/uploads/2021/08/national-flag-16289133273x2.jpg?impolicy=website&width=510&height=356) ;
+    background-size: cover;
+}
+#section{
+    text-align: center;
+    border:solid;
+    border-color: rgb(8, 167, 122);
+    border: 20px;
+    width: 85%;
+    max-width: 600px;
+    min-width: 100px;
+    margin: 10px;
+    padding-left: 50px;
+           
+}
+
+.lastResult {
+    color: rgb(18, 111, 139);
+    padding: 5px;
+}
+
+.guesses {
+    color:  rgb(18, 111, 139);
+    padding: 5px;
+}
+
+button {
+    background-color: rgb(30, 37, 176);
+    color: #aaa;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 26px;
+    border-style:rgb(196, 21, 21);
+    margin-top: 20px;
+    
+}
+
+#subt {
+    background-color: rgb(11, 34, 161);
+    color: #000;
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 20px;
+    border-style: none;
+    margin-top: 50px;
+    
+}
+
+#guessField {
+    color: rgb(122, 205, 66);
+     width: 400px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+    border-width: 10px 15px;
+    border-style: solid;
+    border-color:  #138808;
+    
+    margin-top: 25px;
+
+ background-size:contain;
+    
+    text-align: center;
+}
+
+#guess {
+    font-size: 55px;
+    margin-top: 120px;
+    color: rgb(27, 36, 166);
+}
+
+.guesses {
+    background-color: #811e4f;
+}
+
+#wrapper {
+    box-sizing: border-box;
+    text-align: center;
+    width: 750px;
+    height: 550px;
+    background-color: #12aab4;
+    color: rgba(33, 15, 74, 0.243);
+    font-size: 25px;
+}
+
+h1 {
+    background-color: #1212aa;
+    color: #fff;
+    text-align: center;
+    width: 550px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
